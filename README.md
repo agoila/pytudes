@@ -2,7 +2,7 @@
 
 *Etudes* are exercises to practice or demonstrate skills, long used by piano players. 
 
-This project contains **pytudes**&mdash;Python programs to practice or demonstrate skills.
+This project is a copy of Peter Norvig's effort found [here](https://github.com/norvig/pytudes) and contains **pytudes**&mdash;Python programs to practice or demonstrate skills.
  
 # pytudes: Index of Jupyter (IPython) Notebooks
 
